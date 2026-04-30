@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cc67f0ed-491c-4a97-90d4-275f4bd2916b",
+  "export_job_id": "909330b2-62cf-4977-90d9-6f55a35d2ac4",
   "id_short": 353298,
-  "published_at": "2026-04-23T19:36:08Z",
+  "published_at": "2026-04-30T19:30:49Z",
   "repo_name": "all-restaurants-in-hayward-california-us-sample-353298",
   "sample_asset_name": "beamstation_353298_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/353298/beamstation_353298_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "f38092e793f1157b7d8c7e7856155d17c5b57d2ea3f7a8f56bd2006e424ce036",
-  "sample_size_bytes": 115716,
-  "total_records": 283
+  "sample_records": 43,
+  "sample_sha256": "d06d08e4f80691dcf2e07033140db8e7d7834d2fd76f7181e7be791e599568bc",
+  "sample_size_bytes": 160469,
+  "total_records": 434
 }
