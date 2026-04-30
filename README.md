@@ -1,6 +1,6 @@
 # All Restaurants in Hayward, California, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 43 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `353298` |
 | Location | Hayward |
 | Category | Restaurants |
-| Full dataset size | 283 records |
-| Free sample size | 28 records (9.89%) |
-| Last export | 2026-04-23T09:19:28.504668+00:00 |
+| Full dataset size | 434 records |
+| Free sample size | 43 records (9.91%) |
+| Last export | 2026-04-30T09:19:42.797093+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hayward-california-us-sample-353298/releases/download/sample-latest/beamstation_353298_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
